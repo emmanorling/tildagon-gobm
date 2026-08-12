@@ -1,13 +1,14 @@
+
 {
   "app": {
-    "name": "Demo App",
-    "category": ["Badge"]
+    "name": "GoBM",
+    "category": ["Tools]
   },
   "metadata": {
-    "author": "hughrawlinson",
+    "author": "emmanorling",
     "license": "LGPL-3.0-only",
-    "url": "https://www.github.com/hughrawlinson/tildagon-demo",
-    "description": "A demo tildagon app for use developing the app directory",
+    "url": "https://github.com/emmanorling/tildagon-gobm",
+    "description": "A tildagon app pulling data from the GoBM bread tracker",
     "version": "0.0.1"
   }
 }
